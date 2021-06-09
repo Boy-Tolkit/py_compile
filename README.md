@@ -3,7 +3,8 @@
 pkg install python2
 pkg install requests
 pkg install mechanize
-pkg install pyc
+pip install pyc
+pip2 install pyc
 ```
 
 #RUN
